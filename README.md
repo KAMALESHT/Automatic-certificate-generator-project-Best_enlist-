@@ -17,6 +17,6 @@ names like that for all .I used imagedraw in pillow module for writing
 
 names and details in certificate and I created a separate folder named 
 
-certificates for storing the certificates I created.hereby I submitted the 
+certificates for storing the certificates I created.
 
-screen shots of certificate folder and sample certificate
+
